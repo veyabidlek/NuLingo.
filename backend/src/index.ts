@@ -17,6 +17,3 @@ app.use("/api/", globalRouter);
 app.listen(PORT, () => {
   console.log(`Server runs at http://localhost:${PORT}`);
 });
-function cors(): any {
-  throw new Error("Function not implemented.");
-}
