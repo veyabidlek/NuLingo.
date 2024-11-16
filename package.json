@@ -2,6 +2,6 @@
   "name": "beks",
   "version": "1.0.0",
   "scripts": {
-    "start": "cd backend && npm install && npm start"
+    "start": "cd backend && npm install && npm run start"
   }
 }
