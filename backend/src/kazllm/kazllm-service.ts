@@ -1,6 +1,6 @@
 import "dotenv/config";
 import axios from "axios";
-import CategoryModel from "./models/Category";
+import CategoryModel from "./models/category";
 import mongoose from "mongoose";
 
 export default class KAZLLMService {
