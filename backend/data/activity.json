@@ -1,0 +1,185 @@
+{
+  "category_name": "activity",
+  "sentences": [
+    [
+      "Мен таңертең жүгіруге шығамын",
+      "Я выхожу на пробежку утром",
+      "I go jogging in the morning",
+      "Sabahları koşuya çıkarım"
+    ],
+    [
+      "Біз кешке футбол ойнаймыз",
+      "Мы играем в футбол вечером",
+      "We play football in the evening",
+      "Akşamları futbol oynarız"
+    ],
+    [
+      "Мен тауға шығуды жақсы көремін",
+      "Я люблю подниматься в горы",
+      "I love hiking in the mountains",
+      "Dağlarda yürüyüş yapmayı seviyorum"
+    ],
+    [
+      "Біз бассейнде жүземіз",
+      "Мы плаваем в бассейне",
+      "We swim in the pool",
+      "Havuzda yüzeriz"
+    ],
+    [
+      "Саябақта велосипед тебемін",
+      "Я катаюсь на велосипеде в парке",
+      "I ride a bike in the park",
+      "Parkta bisiklete binerim"
+    ],
+    [
+      "Мен кітап оқығанды ұнатамын",
+      "Мне нравится читать книги",
+      "I enjoy reading books",
+      "Kitap okumayı severim"
+    ],
+    [
+      "Біз отбасымызбен пикникке шығамыз",
+      "Мы идем на пикник с семьей",
+      "We go on a picnic with the family",
+      "Ailece pikniğe çıkarız"
+    ],
+    [
+      "Жаңа хобби бастауға тырысамын",
+      "Я пробую начать новое хобби",
+      "I try to start a new hobby",
+      "Yeni bir hobiye başlamaya çalışıyorum"
+    ],
+    [
+      "Мен аспаздық сабақтарға қатысамын",
+      "Я хожу на кулинарные курсы",
+      "I attend cooking classes",
+      "Yemek yapma kurslarına katılıyorum"
+    ],
+    [
+      "Біз достарымызбен кино көреміз",
+      "Мы смотрим фильмы с друзьями",
+      "We watch movies with friends",
+      "Arkadaşlarla film izleriz"
+    ],
+    [
+      "Мен спортзалға барып жаттығамын",
+      "Я хожу в спортзал на тренировки",
+      "I go to the gym to work out",
+      "Spor salonuna gidip antrenman yapıyorum"
+    ],
+    [
+      "Музыка тыңдағанды жақсы көремін",
+      "Мне нравится слушать музыку",
+      "I enjoy listening to music",
+      "Müzik dinlemeyi severim"
+    ],
+    [
+      "Біз досымыздың туған күнін атап өтеміз",
+      "Мы празднуем день рождения друга",
+      "We celebrate our friend's birthday",
+      "Arkadaşımızın doğum gününü kutlarız"
+    ],
+    [
+      "Мен сурет салуды үйреніп жүрмін",
+      "Я учусь рисовать",
+      "I am learning to draw",
+      "Çizim yapmayı öğreniyorum"
+    ],
+    [
+      "Біз жағажайда демаламыз",
+      "Мы отдыхаем на пляже",
+      "We relax on the beach",
+      "Plajda dinleniyoruz"
+    ],
+    [
+      "Мен жаңа спорт түрін сынап көремін",
+      "Я пробую новый вид спорта",
+      "I try a new sport",
+      "Yeni bir spor deniyorum"
+    ],
+    [
+      "Кітапханаға барып зерттеу жүргіземін",
+      "Я хожу в библиотеку для исследований",
+      "I go to the library for research",
+      "Araştırma için kütüphaneye giderim"
+    ],
+    [
+      "Мен шығармашылық жобамен айналысамын",
+      "Я занимаюсь творческим проектом",
+      "I work on a creative project",
+      "Yaratıcı bir projeyle uğraşıyorum"
+    ],
+    [
+      "Біз үйдің айналасында жұмыс істейміз",
+      "Мы работаем вокруг дома",
+      "We do chores around the house",
+      "Evin çevresinde işler yaparız"
+    ],
+    [
+      "Мен йогамен айналысамын",
+      "Я занимаюсь йогой",
+      "I practice yoga",
+      "Yoga yapıyorum"
+    ],
+    [
+      "Мен достарыммен кафеге барамын",
+      "Я хожу с друзьями в кафе",
+      "I go to a café with friends",
+      "Arkadaşlarımla kafeye giderim"
+    ],
+    [
+      "Саяхаттауды қатты ұнатамын",
+      "Я очень люблю путешествовать",
+      "I really enjoy traveling",
+      "Seyahat etmeyi çok severim"
+    ],
+    [
+      "Біз қайықпен серуендейміз",
+      "Мы катаемся на лодке",
+      "We go boating",
+      "Tekne turuna çıkarız"
+    ],
+    [
+      "Мен жаңа дағдыларды үйренемін",
+      "Я учусь новым навыкам",
+      "I learn new skills",
+      "Yeni beceriler öğreniyorum"
+    ],
+    [
+      "Сахнада өнер көрсетуді ұнатамын",
+      "Мне нравится выступать на сцене",
+      "I enjoy performing on stage",
+      "Sahnede performans sergilemeyi seviyorum"
+    ],
+    [
+      "Мен түнде жұлдыздарға қараймын",
+      "Я смотрю на звезды ночью",
+      "I look at the stars at night",
+      "Gece yıldızlara bakarım"
+    ],
+    [
+      "Біз футбол жанкүйерлерімен кездестік",
+      "Мы встретились с футбольными фанатами",
+      "We met with football fans",
+      "Futbol taraftarlarıyla buluştuk"
+    ],
+    [
+      "Мен музыка аспабын үйреніп жүрмін",
+      "Я учусь играть на музыкальном инструменте",
+      "I am learning to play a musical instrument",
+      "Müzik aleti çalmayı öğreniyorum"
+    ],
+    [
+      "Біз жаңа қаланы зерттейміз",
+      "Мы исследуем новый город",
+      "We explore a new city",
+      "Yeni bir şehri keşfediyoruz"
+    ],
+    [
+      "Мен өз бақшамды күтемін",
+      "Я ухаживаю за своим садом",
+      "I take care of my garden",
+      "Bahçemle ilgileniyorum"
+    ]
+  ]
+}

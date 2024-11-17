@@ -1,0 +1,185 @@
+{
+  "category_name": "Drinks",
+  "sentences": [
+    [
+      "Менің сүйікті сусыным - шай",
+      "Мой любимый напиток - чай",
+      "My favorite drink is tea",
+      "En sevdiğim içecek çaydır"
+    ],
+    [
+      "Кофе дәмі өте күшті",
+      "Вкус кофе очень насыщенный",
+      "The taste of coffee is very strong",
+      "Kahvenin tadı çok yoğundur"
+    ],
+    [
+      "Минералды су денсаулық үшін пайдалы",
+      "Минеральная вода полезна для здоровья",
+      "Mineral water is good for health",
+      "Maden suyu sağlık için faydalıdır"
+    ],
+    [
+      "Салқын сусындар жазда сергітеді",
+      "Холодные напитки освежают летом",
+      "Cold drinks refresh you in summer",
+      "Soğuk içecekler yazın serinletir"
+    ],
+    [
+      "Мен шырын ішуді жақсы көремін",
+      "Я люблю пить сок",
+      "I love drinking juice",
+      "Meyve suyu içmeyi seviyorum"
+    ],
+    [
+      "Сүт таңғы асқа пайдалы",
+      "Молоко полезно на завтрак",
+      "Milk is good for breakfast",
+      "Süt kahvaltıda faydalıdır"
+    ],
+    [
+      "Су - өмір көзі",
+      "Вода - источник жизни",
+      "Water is the source of life",
+      "Su hayat kaynağıdır"
+    ],
+    [
+      "Коктейльдер партияларда танымал",
+      "Коктейли популярны на вечеринках",
+      "Cocktails are popular at parties",
+      "Kokteyller partilerde popülerdir"
+    ],
+    [
+      "Шай мен печенье тамаша үйлеседі",
+      "Чай хорошо сочетается с печеньем",
+      "Tea goes well with cookies",
+      "Çay ve bisküvi mükemmel bir ikilidir"
+    ],
+    [
+      "Лимонад сергітеді және шөлді басады",
+      "Лимонад освежает и утоляет жажду",
+      "Lemonade refreshes and quenches thirst",
+      "Limonata serinletir ve susuzluğu giderir"
+    ],
+    [
+      "Қайнатылған шөп шайы тыныштандырады",
+      "Травяной чай успокаивает",
+      "Herbal tea calms you",
+      "Bitki çayı sakinleştirir"
+    ],
+    [
+      "Газдалған сусындар балалар арасында танымал",
+      "Газированные напитки популярны среди детей",
+      "Carbonated drinks are popular among children",
+      "Gazlı içecekler çocuklar arasında popülerdir"
+    ],
+    [
+      "Апельсин шырыны дәмді және пайдалы",
+      "Апельсиновый сок вкусный и полезный",
+      "Orange juice is tasty and healthy",
+      "Portakal suyu lezzetli ve sağlıklıdır"
+    ],
+    [
+      "Кешкі асқа шарап жиі беріледі",
+      "Вино часто подается к ужину",
+      "Wine is often served with dinner",
+      "Akşam yemeğinde genellikle şarap sunulur"
+    ],
+    [
+      "Какао балаларға ұнайды",
+      "Какао нравится детям",
+      "Kids love cocoa",
+      "Kakao çocuklar tarafından sevilir"
+    ],
+    [
+      "Жасыл шай антиоксиданттарға бай",
+      "Зеленый чай богат антиоксидантами",
+      "Green tea is rich in antioxidants",
+      "Yeşil çay antioksidanlar bakımından zengindir"
+    ],
+    [
+      "Сүт коктейлі тәтті әрі кремді",
+      "Молочный коктейль сладкий и кремовый",
+      "Milkshake is sweet and creamy",
+      "Sütlü milkshake tatlı ve kremalıdır"
+    ],
+    [
+      "Эспрессо қуат береді",
+      "Эспрессо дает заряд энергии",
+      "Espresso gives energy",
+      "Espresso enerji verir"
+    ],
+    [
+      "Мұзды кофе танымал жазғы сусын",
+      "Холодный кофе - популярный летний напиток",
+      "Iced coffee is a popular summer drink",
+      "Buzlu kahve popüler bir yaz içeceğidir"
+    ],
+    [
+      "Жалбыз шайы тыныштандырады",
+      "Мятный чай успокаивает",
+      "Mint tea soothes",
+      "Nane çayı rahatlatır"
+    ],
+    [
+      "Салқындатылған су дене температурасын төмендетеді",
+      "Холодная вода снижает температуру тела",
+      "Cold water lowers body temperature",
+      "Soğuk su vücut sıcaklığını düşürür"
+    ],
+    [
+      "Шоколадты сүт таңғы ас үшін керемет таңдау",
+      "Шоколадное молоко - отличный выбор для завтрака",
+      "Chocolate milk is a great choice for breakfast",
+      "Çikolatalı süt kahvaltı için harika bir tercihtir"
+    ],
+    [
+      "Шарап ішу мәдениеттің бір бөлігі",
+      "Питье вина - это часть культуры",
+      "Drinking wine is part of culture",
+      "Şarap içmek kültürün bir parçasıdır"
+    ],
+    [
+      "Коктейльдер әртүрлі дәммен жасалады",
+      "Коктейли делаются с разными вкусами",
+      "Cocktails are made with various flavors",
+      "Kokteyller farklı tatlarla yapılır"
+    ],
+    [
+      "Тәтті шайды көпшілік жақсы көреді",
+      "Сладкий чай нравится многим",
+      "Sweet tea is loved by many",
+      "Tatlı çay birçok kişi tarafından sevilir"
+    ],
+    [
+      "Жүзім шырыны денсаулыққа пайдалы",
+      "Виноградный сок полезен для здоровья",
+      "Grape juice is healthy",
+      "Üzüm suyu sağlıklıdır"
+    ],
+    [
+      "Смузи таңғы асқа өте қолайлы",
+      "Смузи идеально подходит для завтрака",
+      "Smoothies are perfect for breakfast",
+      "Smoothie kahvaltı için mükemmeldir"
+    ],
+    [
+      "Кокос суы сергітеді",
+      "Кокосовая вода освежает",
+      "Coconut water refreshes",
+      "Hindistancevizi suyu ferahlatır"
+    ],
+    [
+      "Жаңғақ сүті пайдалы және дәмді",
+      "Ореховое молоко полезно и вкусно",
+      "Nut milk is healthy and tasty",
+      "Kuruyemiş sütü sağlıklı ve lezzetlidir"
+    ],
+    [
+      "Көк шай босаңсытады",
+      "Зеленый чай расслабляет",
+      "Green tea relaxes",
+      "Yeşil çay rahatlatır"
+    ]
+  ]
+}

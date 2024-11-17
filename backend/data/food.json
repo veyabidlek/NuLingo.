@@ -1,0 +1,185 @@
+{
+  "category_name": "food",
+  "sentences": [
+    [
+      "Мен ұлттық тағамдарды ұнатамын",
+      "Я люблю национальные блюда",
+      "I love traditional dishes",
+      "Geleneksel yemekleri severim"
+    ],
+    [
+      "Мен түскі асқа сорпа дайындадым",
+      "Я приготовил суп на обед",
+      "I made soup for lunch",
+      "Öğle yemeği için çorba yaptım"
+    ],
+    [
+      "Біз мейрамханада кешкі ас іштік",
+      "Мы ужинали в ресторане",
+      "We had dinner at the restaurant",
+      "Restoranda akşam yemeği yedik"
+    ],
+    [
+      "Мен тәттілерді жақсы көремін",
+      "Я обожаю сладости",
+      "I love sweets",
+      "Tatlıları çok seviyorum"
+    ],
+    [
+      "Мен күн сайын жеміс жеймін",
+      "Я ем фрукты каждый день",
+      "I eat fruit every day",
+      "Her gün meyve yerim"
+    ],
+    [
+      "Біз жаңа піскен көкөністер сатып алдық",
+      "Мы купили свежие овощи",
+      "We bought fresh vegetables",
+      "Taze sebzeler aldık"
+    ],
+    [
+      "Мен таңғы асқа нан жеймін",
+      "На завтрак я ем хлеб",
+      "I eat bread for breakfast",
+      "Kahvaltıda ekmek yerim"
+    ],
+    [
+      "Теңіз өнімдері өте пайдалы",
+      "Морепродукты очень полезны",
+      "Seafood is very healthy",
+      "Deniz ürünleri çok sağlıklıdır"
+    ],
+    [
+      "Мен макарон өнімдерін жиі пісіремін",
+      "Я часто готовлю макароны",
+      "I often cook pasta",
+      "Sık sık makarna pişiririm"
+    ],
+    [
+      "Менің сүйікті тағамым - пицца",
+      "Мое любимое блюдо – пицца",
+      "My favorite food is pizza",
+      "En sevdiğim yemek pizzadır"
+    ],
+    [
+      "Шай менің сүйікті сусыным",
+      "Чай – мой любимый напиток",
+      "Tea is my favorite drink",
+      "Çay en sevdiğim içecektir"
+    ],
+    [
+      "Мен кешкі асқа ет пісірдім",
+      "Я приготовил мясо на ужин",
+      "I cooked meat for dinner",
+      "Akşam yemeği için et pişirdim"
+    ],
+    [
+      "Жемістердің табиғи тәттілігі ұнайды",
+      "Мне нравится натуральная сладость фруктов",
+      "I like the natural sweetness of fruits",
+      "Meyvelerin doğal tatlılığını seviyorum"
+    ],
+    [
+      "Біз үйде суши жасаймыз",
+      "Мы готовим суши дома",
+      "We make sushi at home",
+      "Evde suşi yapıyoruz"
+    ],
+    [
+      "Тамақ дайындау шығармашылыққа ұқсайды",
+      "Готовка похожа на творчество",
+      "Cooking is like an art",
+      "Yemek yapmak bir sanat gibidir"
+    ],
+    [
+      "Мен дәмдеуіштерді жиі қолданамын",
+      "Я часто использую специи",
+      "I often use spices",
+      "Sık sık baharat kullanırım"
+    ],
+    [
+      "Балмұздақ жазда тамаша десерт",
+      "Мороженое – отличный десерт летом",
+      "Ice cream is a great dessert in summer",
+      "Dondurma yazın harika bir tatlıdır"
+    ],
+    [
+      "Мен әртүрлі асханаларды сынап көремін",
+      "Я пробую разные кухни",
+      "I try different cuisines",
+      "Farklı mutfakları denerim"
+    ],
+    [
+      "Біз жаңа рецептті сынап көрдік",
+      "Мы попробовали новый рецепт",
+      "We tried a new recipe",
+      "Yeni bir tarif denedik"
+    ],
+    [
+      "Дәмді десерттер жасауды ұнатамын",
+      "Я люблю готовить вкусные десерты",
+      "I love making delicious desserts",
+      "Lezzetli tatlılar yapmayı seviyorum"
+    ],
+    [
+      "Сүт өнімдері денсаулыққа пайдалы",
+      "Молочные продукты полезны для здоровья",
+      "Dairy products are good for health",
+      "Süt ürünleri sağlık için faydalıdır"
+    ],
+    [
+      "Мен көп су ішемін",
+      "Я пью много воды",
+      "I drink a lot of water",
+      "Çok su içerim"
+    ],
+    [
+      "Шоколад менің сүйікті тәттіім",
+      "Шоколад – моя любимая сладость",
+      "Chocolate is my favorite treat",
+      "Çikolata en sevdiğim tatlıdır"
+    ],
+    [
+      "Мен грильде көкөніс пісірдім",
+      "Я приготовил овощи на гриле",
+      "I grilled vegetables",
+      "Izgarada sebze pişirdim"
+    ],
+    [
+      "Біз үйде пісіру кешін өткіздік",
+      "Мы устроили вечер готовки дома",
+      "We had a cooking night at home",
+      "Evde yemek yapma gecesi düzenledik"
+    ],
+    [
+      "Біз нан пісіріп көрдік",
+      "Мы попробовали испечь хлеб",
+      "We tried baking bread",
+      "Ekmek yapmayı denedik"
+    ],
+    [
+      "Тұзды және тәтті тағамдар үйлесімі ұнайды",
+      "Мне нравится сочетание соленого и сладкого",
+      "I like the combination of salty and sweet foods",
+      "Tuzlu ve tatlı yemeklerin kombinasyonunu severim"
+    ],
+    [
+      "Біз көктемгі орамаларды дайындадық",
+      "Мы приготовили весенние рулетики",
+      "We made spring rolls",
+      "Bahar ruloları yaptık"
+    ],
+    [
+      "Менің сүйікті сорпам - томат сорпасы",
+      "Мой любимый суп – томатный суп",
+      "My favorite soup is tomato soup",
+      "En sevdiğim çorba domates çorbasıdır"
+    ],
+    [
+      "Таңғы ас - ең маңызды тамақ",
+      "Завтрак – самый важный прием пищи",
+      "Breakfast is the most important meal",
+      "Kahvaltı en önemli öğündür"
+    ]
+  ]
+}
