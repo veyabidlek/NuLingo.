@@ -2,7 +2,6 @@ import { Router } from "express";
 import axios from "axios";
 const ttsRouter = Router();
 
-// Endpoint "/tts"
 ttsRouter.post("/tts", async (req, res) => {
   try {
     const {
@@ -20,8 +19,6 @@ ttsRouter.post("/tts", async (req, res) => {
           "source_language, target_language, and text are required fields.",
       });
     }
-
-    // Prepare payload for the external API
     const payload = {
       source_language,
       target_language,
@@ -32,7 +29,6 @@ ttsRouter.post("/tts", async (req, res) => {
 
     const url = process.env.SOYLE_URL || "";
 
-    // Call the external TTS API
     const response = await axios.post(url, payload, {
       headers: {
         Authorization: `Api-Key ${process.env.SOYLE_API_KEY}`,

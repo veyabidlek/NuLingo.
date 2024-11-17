@@ -2,184 +2,178 @@
   "category_name": "Sport",
   "sentences": [
     [
-      "Спорт денсаулық үшін пайдалы",
-      "Спорт полезен для здоровья",
-      "Sport is good for health",
-      "Spor sağlık için faydalıdır"
+      "Спорт - денсаулық кепілі",
+      "Спорт - залог здоровья",
+      "Sport is key to health",
+      "Spor, sağlığın anahtarıdır"
     ],
     [
-      "Мен жүгірумен айналысамын",
-      "Я занимаюсь бегом",
-      "I practice running",
-      "Koşu yapıyorum"
+      "Мен көкпар ойнауды ұнатамын",
+      "Мне нравится играть в кокпар",
+      "I love playing kokpar",
+      "Kökpar oynamayı seviyorum"
     ],
     [
-      "Спорттық жарыс бүгін басталады",
-      "Спортивное соревнование начнется сегодня",
-      "The sports competition starts today",
-      "Spor müsabakası bugün başlıyor"
+      "Бүгін бәйге жарысы өтеді",
+      "Сегодня пройдет байге",
+      "Baige is happening today",
+      "Bugün bağ yarışları var"
     ],
     [
-      "Ойыншылар жеңіс үшін күресуде",
-      "Игроки борются за победу",
-      "Players are fighting for victory",
-      "Oyuncular zafer için mücadele ediyor"
+      "Жігіттер күш сынасуда",
+      "Парни меряются силами",
+      "Men test their strength",
+      "Erkekler güçlerini deniyor"
     ],
     [
-      "Менің сүйікті спорт түрім - теннис",
-      "Мой любимый вид спорта - теннис",
-      "My favorite sport is tennis",
-      "Favori spor dalım tenis"
+      "Мен асық атуға қатысамын",
+      "Я участвую в асик ату",
+      "I play asyk atu",
+      "Asyk atu oyunundayım"
     ],
     [
-      "Футбол - танымал спорт түрі",
-      "Футбол - популярный вид спорта",
-      "Football is a popular sport",
-      "Futbol popüler bir spordur"
+      "Қазақ күресі мақтанышымыз",
+      "Казахская борьба - гордость",
+      "Kazakh wrestling is pride",
+      "Kazak güreşi gururumuzdur"
     ],
     [
-      "Спортшылар әрдайым дайындықта",
-      "Спортсмены всегда тренируются",
-      "Athletes are always training",
-      "Sporcular her zaman antrenman yapar"
+      "Спортшылар күреске дайын",
+      "Спортсмены готовы к борьбе",
+      "Athletes are ready to fight",
+      "Sporcular mücadeleye hazır"
     ],
     [
-      "Спорттық алаң өте кең",
-      "Спортивное поле очень большое",
-      "The sports field is very large",
-      "Spor sahası çok geniş"
+      "Жүйрік аттар бәйгеде жарысады",
+      "Скакуны соревнуются на байге",
+      "Horses race in the baige",
+      "Atlar bağ yarışında koşar"
     ],
     [
-      "Мен жаттығу залына барамын",
-      "Я иду в тренажерный зал",
-      "I am going to the gym",
-      "Spor salonuna gidiyorum"
+      "Мен қазақ күресіне қатысамын",
+      "Я участвую в казахской борьбе",
+      "I do Kazakh wrestling",
+      "Kazak güreşi yapıyorum"
     ],
     [
-      "Спорттық сайыстар рухтандырады",
-      "Спортивные соревнования вдохновляют",
-      "Sports competitions are inspiring",
-      "Spor müsabakaları ilham vericidir"
+      "Наурыз тойында жарыс өтеді",
+      "Состязания на празднике Наурыз",
+      "Games in Nauryz festival",
+      "Nevruz'da yarışmalar var"
     ],
     [
-      "Суда жүзу өте пайдалы",
-      "Плавание очень полезно",
-      "Swimming is very beneficial",
-      "Yüzme çok faydalıdır"
+      "Көкпар ойындары рухтандырады",
+      "Кокпар вдохновляет дух",
+      "Kokpar inspires the spirit",
+      "Kökpar ruhu canlandırır"
     ],
     [
-      "Жүгіру денсаулықты жақсартады",
-      "Бег улучшает здоровье",
-      "Running improves health",
-      "Koşu sağlığı geliştirir"
+      "Жаяу жүру денсаулыққа пайдалы",
+      "Ходьба полезна для здоровья",
+      "Walking is good for health",
+      "Yürüyüş sağlık için iyidir"
     ],
     [
-      "Тау шаңғысы қызықты спорт түрі",
-      "Горные лыжи - это интересный вид спорта",
-      "Skiing is an interesting sport",
-      "Kayak yapmak ilginç bir spordur"
+      "Тауға шығу батылдықты қажет етеді",
+      "Подъем в горы требует храбрости",
+      "Climbing needs courage",
+      "Dağa çıkmak cesaret ister"
     ],
     [
-      "Спорттық киім ыңғайлы болуы керек",
-      "Спортивная одежда должна быть удобной",
-      "Sportswear should be comfortable",
-      "Spor kıyafetleri rahat olmalıdır"
+      "Күресте әдіс маңызды",
+      "Тактика важна в борьбе",
+      "Tactics are key in wrestling",
+      "Güreşte taktik önemlidir"
     ],
     [
-      "Біз командалық ойынды жақсы көреміз",
-      "Мы любим командные игры",
-      "We love team sports",
-      "Takım sporlarını seviyoruz"
+      "Біз ұлттық спортты қолдаймыз",
+      "Мы поддерживаем нац. спорт",
+      "We support national sports",
+      "Ulusal sporu destekliyoruz"
     ],
     [
-      "Велосипед тебу экологиялық таза",
-      "Езда на велосипеде экологически чиста",
-      "Cycling is environmentally friendly",
-      "Bisiklet sürmek çevre dostudur"
+      "Бәйгеде жүйріктер таң қалдырады",
+      "Скакуны поражают на байге",
+      "Horses amaze in baige",
+      "Baige'deki atlar etkiler"
     ],
     [
-      "Баскетбол алаңында ойын қызу өтеді",
-      "Игра на баскетбольной площадке оживленная",
-      "The game on the basketball court is lively",
-      "Basketbol sahasındaki oyun canlıdır"
+      "Спорт денсаулықты нығайтады",
+      "Спорт укрепляет здоровье",
+      "Sports improve health",
+      "Spor sağlığı geliştirir"
     ],
     [
-      "Спорт дене күшін нығайтады",
-      "Спорт укрепляет тело",
-      "Sport strengthens the body",
-      "Spor vücudu güçlendirir"
+      "Жаттығу күнде болу керек",
+      "Тренировка важна каждый день",
+      "Daily training is vital",
+      "Antrenman her gün olmalı"
     ],
     [
-      "Жаттығу күнделікті өмірдің бөлігі болуы керек",
-      "Тренировка должна быть частью повседневной жизни",
-      "Exercise should be part of daily life",
-      "Egzersiz günlük yaşamın bir parçası olmalıdır"
-    ],
-    [
-      "Олимпиада - үлкен спорттық шара",
-      "Олимпиада - это крупное спортивное событие",
-      "The Olympics is a major sporting event",
-      "Olimpiyatlar büyük bir spor etkinliğidir"
+      "Олимпиада - әлемдік шара",
+      "Олимпиада - мировое событие",
+      "The Olympics is global",
+      "Olimpiyatlar küresel etkinlik"
     ],
     [
       "Теннис ракеткамен ойналады",
       "Теннис играется ракеткой",
-      "Tennis is played with a racket",
+      "Tennis is played with racket",
       "Tenis raketle oynanır"
     ],
     [
       "Қысқы спорт түрлері қызықты",
-      "Зимние виды спорта интересны",
-      "Winter sports are interesting",
-      "Kış sporları ilginçtir"
+      "Зимний спорт интересен",
+      "Winter sports are fun",
+      "Kış sporları eğlencelidir"
     ],
     [
       "Жүгіру жолдары стадионда бар",
-      "Дорожки для бега есть на стадионе",
-      "There are running tracks at the stadium",
-      "Stadyumda koşu parkurları vardır"
+      "Дорожки есть на стадионе",
+      "Tracks are in the stadium",
+      "Stadyumda parkurlar vardır"
     ],
     [
-      "Біз жаңа спорт түрін үйреніп жатырмыз",
-      "Мы изучаем новый вид спорта",
-      "We are learning a new sport",
-      "Yeni bir spor öğreniyoruz"
+      "Біз жаңа спортты үйреніп жатырмыз",
+      "Мы изучаем новый спорт",
+      "We are learning new sports",
+      "Yeni sporlar öğreniyoruz"
     ],
     [
-      "Бокс батылдықты талап етеді",
-      "Бокс требует храбрости",
-      "Boxing requires courage",
-      "Boks cesaret gerektirir"
+      "Бәйгеде батырлық керек",
+      "Смелость нужна в байге",
+      "Bravery is needed in baige",
+      "Baige cesaret gerektirir"
     ],
     [
-      "Көрермендер ойынға жанкүйер болады",
-      "Зрители поддерживают игру",
-      "The spectators cheer for the game",
-      "Seyirciler oyuna tezahürat yapıyor"
+      "Көрермендер жанкүйер болады",
+      "Зрители поддерживают",
+      "Spectators cheer loudly",
+      "Seyirciler tezahürat yapar"
     ],
     [
-      "Спортшылар әрқашан жақсы физикалық формада болуы керек",
-      "Спортсмены всегда должны быть в хорошей форме",
-      "Athletes must always be in good physical shape",
-      "Sporcular her zaman iyi bir fiziksel durumda olmalıdır"
+      "Спортшылар әрдайым мықты",
+      "Спортсмены всегда сильны",
+      "Athletes are always strong",
+      "Sporcular daima güçlüdür"
     ],
     [
-      "Йога дене мен ақыл-ойды тыныштандырады",
-      "Йога успокаивает тело и разум",
-      "Yoga calms the body and mind",
-      "Yoga bedeni ve zihni sakinleştirir"
+      "Йога денені тыныштандырады",
+      "Йога успокаивает тело",
+      "Yoga calms the body",
+      "Yoga bedeni sakinleştirir"
     ],
     [
-      "Біз спорттық мерекені тойлап жатырмыз",
-      "Мы празднуем спортивный праздник",
-      "We are celebrating a sports festival",
-      "Bir spor festivalini kutluyoruz"
+      "Біз ұлттық спортты тойлаймыз",
+      "Мы празднуем нац. спорт",
+      "We celebrate national sports",
+      "Ulusal sporu kutluyoruz"
     ],
     [
-      "Спорт барлық жастағы адамдар үшін маңызды",
-      "Спорт важен для людей всех возрастов",
-      "Sport is important for people of all ages",
-      "Spor her yaşta insanlar için önemlidir"
+      "Ұлттық спорт жас ұрпақты тәрбиелейді",
+      "Нац. спорт учит молодежь",
+      "National sports educate youth",
+      "Ulusal spor gençleri eğitir"
     ]
   ]
 }

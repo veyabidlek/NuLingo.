@@ -1,185 +1,185 @@
 {
-  "category_name": "family",
+  "category_name": "Family",
   "sentences": [
     [
-      "Мен отбасымды жақсы көремін",
-      "Я люблю свою семью",
-      "I love my family",
-      "Ailemi seviyorum"
+      "Отбасы - береке мен бірлік",
+      "Семья - это гармония и единство",
+      "Family is harmony and unity",
+      "Aile uyum ve birliktir"
     ],
     [
-      "Біз отбасымызбен бірге тамақ ішеміз",
-      "Мы едим вместе с семьей",
-      "We eat together as a family",
-      "Ailece birlikte yemek yeriz"
+      "Әке - отбасының тірегі",
+      "Отец - опора семьи",
+      "Father is the family’s pillar",
+      "Baba ailenin direğidir"
     ],
     [
-      "Менің әкем өте қамқор",
-      "Мой отец очень заботливый",
-      "My father is very caring",
-      "Babam çok şefkatli"
+      "Ана - жүректің жылуы",
+      "Мать - тепло сердца",
+      "Mother is the heart’s warmth",
+      "Anne kalbin sıcaklığıdır"
     ],
     [
-      "Менің анам ең жақсы аспаз",
-      "Моя мама лучший повар",
-      "My mom is the best cook",
-      "Annem en iyi aşçıdır"
+      "Әсел тәтесімен бірге пісіреді",
+      "Асель готовит с тетей",
+      "Asel cooks with her aunt",
+      "Asel teyzesiyle yemek yapar"
     ],
     [
-      "Менің әпкем әрқашан мені қолдайды",
-      "Моя сестра всегда меня поддерживает",
-      "My sister always supports me",
-      "Kız kardeşim her zaman beni destekler"
+      "Бауырлар бір-біріне көмектеседі",
+      "Братья помогают друг другу",
+      "Brothers help each other",
+      "Kardeşler birbirine yardım eder"
     ],
     [
-      "Менің ағам өте батыл",
-      "Мой брат очень смелый",
-      "My brother is very brave",
-      "Ağabeyim çok cesurdur"
+      "Айгүл немересін ойнатады",
+      "Айгуль играет с внуком",
+      "Aigul plays with her grandson",
+      "Aygül torunuyla oynuyor"
     ],
     [
-      "Отбасымыздың бірге өткізетін уақыты өте қымбат",
-      "Время, которое мы проводим вместе с семьей, очень ценно",
-      "The time we spend as a family is precious",
-      "Aileyle geçirilen zaman çok değerlidir"
+      "Қазақ отбасында құрмет маңызды",
+      "В казахской семье важна уважение",
+      "Respect is key in Kazakh families",
+      "Kazak ailelerinde saygı önemlidir"
     ],
     [
-      "Отбасымызбен демалыс күндері саябаққа барамыз",
-      "На выходных мы ходим в парк с семьей",
-      "We go to the park with the family on weekends",
-      "Hafta sonları ailece parka gideriz"
+      "Ермек әкесімен далаға шықты",
+      "Ермек вышел на улицу с отцом",
+      "Yermek went out with his dad",
+      "Yermek babasıyla dışarı çıktı"
     ],
     [
-      "Менің ата-әжем әңгімелер айтып береді",
-      "Мои бабушка и дедушка рассказывают истории",
-      "My grandparents tell stories",
-      "Büyükanne ve büyükbabam hikayeler anlatır"
+      "Наурызда отбасы дастарқан жаяды",
+      "На Наурыз семья накрывает стол",
+      "Family sets the table for Nauryz",
+      "Nevruz'da aile sofra kurar"
     ],
     [
-      "Мен бауырларыммен бірге ойнаймын",
-      "Я играю с братьями и сестрами",
-      "I play with my siblings",
-      "Kardeşlerimle oynuyorum"
+      "Балалар ата-ананы тыңдайды",
+      "Дети слушают родителей",
+      "Children listen to parents",
+      "Çocuklar ebeveynlerini dinler"
     ],
     [
-      "Отбасы – менің бақытым",
-      "Семья – это мое счастье",
-      "Family is my happiness",
-      "Aile benim mutluluğumdur"
+      "Айдос ағасына көмектесуде",
+      "Айдос помогает брату",
+      "Aidos helps his brother",
+      "Aidos abisine yardım ediyor"
     ],
     [
-      "Біз бірге фильм көреміз",
-      "Мы смотрим фильмы вместе",
-      "We watch movies together",
-      "Birlikte film izleriz"
+      "Әжем маған ертегі айтып береді",
+      "Бабушка рассказывает сказку",
+      "Grandma tells me a story",
+      "Büyükannem bana masal anlatıyor"
     ],
     [
-      "Менің отбасым әрдайым маған сенеді",
-      "Моя семья всегда верит в меня",
-      "My family always believes in me",
-      "Ailem her zaman bana inanır"
+      "Туған күнде отбасы жиналады",
+      "На день рождения собирается семья",
+      "Family gathers on birthdays",
+      "Doğum gününde aile toplanır"
     ],
     [
-      "Біз отбасымызбен саяхаттағанды ұнатамыз",
-      "Мы любим путешествовать всей семьей",
-      "We love traveling as a family",
-      "Ailece seyahat etmeyi seviyoruz"
+      "Бауыржан немере қарындасын ойнатты",
+      "Бауыржан играл с сестренкой",
+      "Baurzhan played with his cousin",
+      "Baurzhan kuzeniyle oynadı"
     ],
     [
-      "Менің ағам әрқашан әзіл айтып күлдіреді",
-      "Мой брат всегда рассказывает шутки",
-      "My brother always tells jokes",
-      "Kardeşim her zaman şakalar yapar"
+      "Отбасы бір-бірін қолдайды",
+      "Семья поддерживает друг друга",
+      "Family supports one another",
+      "Aile birbirini destekler"
     ],
     [
-      "Отбасыма алғысымды білдіремін",
-      "Я благодарен своей семье",
-      "I am grateful to my family",
-      "Aileme minnettarım"
+      "Балаға тәрбие беру маңызды",
+      "Воспитание детей очень важно",
+      "Raising children is important",
+      "Çocuk yetiştirmek önemlidir"
     ],
     [
-      "Біз мерекелерді бірге атап өтеміз",
-      "Мы отмечаем праздники вместе",
-      "We celebrate holidays together",
-      "Bayramları birlikte kutlarız"
+      "Мен апамды өте жақсы көремін",
+      "Я очень люблю свою бабушку",
+      "I love my grandmother",
+      "Büyükannemi çok seviyorum"
     ],
     [
-      "Мен отбасыммен үйде уақыт өткізгенді ұнатамын",
-      "Мне нравится проводить время дома с семьей",
-      "I enjoy spending time at home with my family",
-      "Ailemle evde vakit geçirmeyi seviyorum"
+      "Ата-әже үйдегі ақылшы",
+      "Дедушка и бабушка - советчики дома",
+      "Grandparents are advisors",
+      "Büyükanneler ve dedeler yol gösterir"
     ],
     [
-      "Біз отбасы дәстүрлерін сақтаймыз",
-      "Мы сохраняем семейные традиции",
-      "We keep family traditions",
-      "Aile geleneklerini koruruz"
+      "Аслан бауырларымен ойнайды",
+      "Аслан играет с братьями",
+      "Aslan plays with his brothers",
+      "Aslan kardeşleriyle oynuyor"
     ],
     [
-      "Отбасылық суреттер біздің естелігіміз",
-      "Семейные фотографии – наши воспоминания",
-      "Family photos are our memories",
-      "Aile fotoğrafları bizim anılarımızdır"
+      "Отбасы жексенбіде жиналады",
+      "Семья собирается в воскресенье",
+      "Family gathers on Sundays",
+      "Aile pazar günleri toplanır"
     ],
     [
-      "Менің ата-анам менің өмірімде маңызды",
-      "Мои родители важны в моей жизни",
-      "My parents are important in my life",
-      "Ebeveynlerim hayatımda çok önemli"
+      "Әлия анасына көмектеседі",
+      "Алия помогает маме",
+      "Aliya helps her mother",
+      "Aliya annesine yardım eder"
     ],
     [
-      "Мен отбасыммен бірге кітап оқығанды жақсы көремін",
-      "Мне нравится читать книги с семьей",
-      "I love reading books with my family",
-      "Ailemle birlikte kitap okumayı seviyorum"
+      "Қазақ үйінде үлкенді сыйлау шарт",
+      "В казахском доме уважают старших",
+      "Elders are respected in Kazakh homes",
+      "Kazak evlerinde büyüklere saygı vardır"
     ],
     [
-      "Отбасымызбен демалысты жоспарлаймыз",
-      "Мы планируем отпуск с семьей",
-      "We plan vacations with the family",
-      "Ailece tatil planları yapıyoruz"
+      "Нұрай тәтесімен кітап оқыды",
+      "Нурай читала книгу с тетей",
+      "Nuray read a book with her aunt",
+      "Nuray teyzesiyle kitap okudu"
     ],
     [
-      "Менің әкем мені әрдайым қолдайды",
-      "Мой отец всегда поддерживает меня",
-      "My father always supports me",
-      "Babam her zaman beni destekler"
+      "Ата-аналар балалары үшін еңбек етеді",
+      "Родители трудятся ради детей",
+      "Parents work for their kids",
+      "Ebeveynler çocukları için çalışır"
     ],
     [
-      "Біз отбасымызбен бірге табиғатқа шығамыз",
-      "Мы выезжаем на природу всей семьей",
-      "We go out to nature as a family",
-      "Ailece doğaya çıkarız"
+      "Достық пен отбасы - өмір негізі",
+      "Дружба и семья - основа жизни",
+      "Family and friendship are key",
+      "Aile ve dostluk hayatın temelidir"
     ],
     [
-      "Менің анам әрдайым маған қамқор",
-      "Моя мама всегда заботится обо мне",
-      "My mom always cares for me",
-      "Annem her zaman bana özen gösterir"
+      "Бекзат әкесіне бақшада көмектесуде",
+      "Бекзат помогает папе в саду",
+      "Bekzat helps dad in the garden",
+      "Bekzat bahçede babasına yardım ediyor"
     ],
     [
-      "Отбасымызбен бірге жаңа жылды тойлаймыз",
-      "Мы отмечаем Новый год вместе с семьей",
-      "We celebrate New Year with the family",
-      "Yeni Yılı ailece kutluyoruz"
+      "Қазақ отбасында қонақ күтеді",
+      "В казахской семье принимают гостей",
+      "Kazakh families host guests",
+      "Kazak aileleri misafir ağırlar"
     ],
     [
-      "Отбасы – бұл махаббат пен қуаныш",
-      "Семья – это любовь и радость",
-      "Family is love and joy",
-      "Aile sevgi ve neşedir"
+      "Әмір атасынан кеңес сұрайды",
+      "Амир спрашивает совета у деда",
+      "Amir asks his grandfather for advice",
+      "Amir dedesinden tavsiye alır"
     ],
     [
-      "Біз әрдайым бір-бірімізге көмектесеміз",
-      "Мы всегда помогаем друг другу",
-      "We always help each other",
-      "Her zaman birbirimize yardım ederiz"
+      "Отбасы - өмірдің тірегі",
+      "Семья - основа жизни",
+      "Family is life’s foundation",
+      "Aile hayatın temelidir"
     ],
     [
-      "Менің бауырларым менің ең жақын достарым",
-      "Мои братья и сестры – мои лучшие друзья",
-      "My siblings are my best friends",
-      "Kardeşlerim en iyi arkadaşlarım"
+      "Балалар ұлттық дәстүрді үйренеді",
+      "Дети учат национальные традиции",
+      "Children learn traditions",
+      "Çocuklar gelenekleri öğrenir"
     ]
   ]
 }

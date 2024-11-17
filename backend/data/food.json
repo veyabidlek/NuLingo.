@@ -1,185 +1,185 @@
 {
-  "category_name": "food",
+  "category_name": "Food",
   "sentences": [
     [
-      "Мен ұлттық тағамдарды ұнатамын",
-      "Я люблю национальные блюда",
-      "I love traditional dishes",
-      "Geleneksel yemekleri severim"
+      "Бешбармақ - ұлттық тағам",
+      "Бешбармак - национальное блюдо",
+      "Beshbarmak is a national dish",
+      "Beşbarmak ulusal bir yemektir"
     ],
     [
-      "Мен түскі асқа сорпа дайындадым",
-      "Я приготовил суп на обед",
-      "I made soup for lunch",
-      "Öğle yemeği için çorba yaptım"
+      "Қымыз - шұбат пайдалы сусындар",
+      "Кымыз и шубат - полезные напитки",
+      "Kumis and shubat are healthy",
+      "Kımız ve şubat sağlıklıdır"
     ],
     [
-      "Біз мейрамханада кешкі ас іштік",
-      "Мы ужинали в ресторане",
-      "We had dinner at the restaurant",
-      "Restoranda akşam yemeği yedik"
+      "Ет - қазақ дастарқанының төресі",
+      "Мясо - главное на казахском столе",
+      "Meat is the king of Kazakh meals",
+      "Et Kazak sofrasının baş tacıdır"
     ],
     [
-      "Мен тәттілерді жақсы көремін",
-      "Я обожаю сладости",
-      "I love sweets",
-      "Tatlıları çok seviyorum"
-    ],
-    [
-      "Мен күн сайын жеміс жеймін",
-      "Я ем фрукты каждый день",
-      "I eat fruit every day",
-      "Her gün meyve yerim"
-    ],
-    [
-      "Біз жаңа піскен көкөністер сатып алдық",
-      "Мы купили свежие овощи",
-      "We bought fresh vegetables",
-      "Taze sebzeler aldık"
-    ],
-    [
-      "Мен таңғы асқа нан жеймін",
-      "На завтрак я ем хлеб",
-      "I eat bread for breakfast",
-      "Kahvaltıda ekmek yerim"
-    ],
-    [
-      "Теңіз өнімдері өте пайдалы",
-      "Морепродукты очень полезны",
-      "Seafood is very healthy",
-      "Deniz ürünleri çok sağlıklıdır"
-    ],
-    [
-      "Мен макарон өнімдерін жиі пісіремін",
-      "Я часто готовлю макароны",
-      "I often cook pasta",
-      "Sık sık makarna pişiririm"
-    ],
-    [
-      "Менің сүйікті тағамым - пицца",
-      "Мое любимое блюдо – пицца",
-      "My favorite food is pizza",
-      "En sevdiğim yemek pizzadır"
-    ],
-    [
-      "Шай менің сүйікті сусыным",
-      "Чай – мой любимый напиток",
-      "Tea is my favorite drink",
-      "Çay en sevdiğim içecektir"
-    ],
-    [
-      "Мен кешкі асқа ет пісірдім",
-      "Я приготовил мясо на ужин",
-      "I cooked meat for dinner",
-      "Akşam yemeği için et pişirdim"
-    ],
-    [
-      "Жемістердің табиғи тәттілігі ұнайды",
-      "Мне нравится натуральная сладость фруктов",
-      "I like the natural sweetness of fruits",
-      "Meyvelerin doğal tatlılığını seviyorum"
-    ],
-    [
-      "Біз үйде суши жасаймыз",
-      "Мы готовим суши дома",
-      "We make sushi at home",
-      "Evde suşi yapıyoruz"
-    ],
-    [
-      "Тамақ дайындау шығармашылыққа ұқсайды",
-      "Готовка похожа на творчество",
-      "Cooking is like an art",
-      "Yemek yapmak bir sanat gibidir"
-    ],
-    [
-      "Мен дәмдеуіштерді жиі қолданамын",
-      "Я часто использую специи",
-      "I often use spices",
-      "Sık sık baharat kullanırım"
-    ],
-    [
-      "Балмұздақ жазда тамаша десерт",
-      "Мороженое – отличный десерт летом",
-      "Ice cream is a great dessert in summer",
-      "Dondurma yazın harika bir tatlıdır"
-    ],
-    [
-      "Мен әртүрлі асханаларды сынап көремін",
-      "Я пробую разные кухни",
-      "I try different cuisines",
-      "Farklı mutfakları denerim"
-    ],
-    [
-      "Біз жаңа рецептті сынап көрдік",
-      "Мы попробовали новый рецепт",
-      "We tried a new recipe",
-      "Yeni bir tarif denedik"
-    ],
-    [
-      "Дәмді десерттер жасауды ұнатамын",
-      "Я люблю готовить вкусные десерты",
-      "I love making delicious desserts",
-      "Lezzetli tatlılar yapmayı seviyorum"
+      "Наурыз көже - мерекелік тағам",
+      "Наурыз кожe - праздничное блюдо",
+      "Nauryz kozhe is festive food",
+      "Nevruz köjesi bayram yemeğidir"
     ],
     [
       "Сүт өнімдері денсаулыққа пайдалы",
-      "Молочные продукты полезны для здоровья",
-      "Dairy products are good for health",
-      "Süt ürünleri sağlık için faydalıdır"
+      "Молочные продукты полезны",
+      "Dairy is good for health",
+      "Süt ürünleri sağlıklıdır"
     ],
     [
-      "Мен көп су ішемін",
-      "Я пью много воды",
-      "I drink a lot of water",
-      "Çok su içerim"
+      "Жаңа піскен нан дәмді",
+      "Свежий хлеб вкусный",
+      "Fresh bread is delicious",
+      "Taze ekmek lezzetlidir"
     ],
     [
-      "Шоколад менің сүйікті тәттіім",
-      "Шоколад – моя любимая сладость",
-      "Chocolate is my favorite treat",
-      "Çikolata en sevdiğim tatlıdır"
+      "Қазы-қарта қазақтардың сүйіктісі",
+      "Казы-карта - любимое блюдо казахов",
+      "Kazy is a Kazakh favorite",
+      "Kazy, Kazakların favorisidir"
     ],
     [
-      "Мен грильде көкөніс пісірдім",
-      "Я приготовил овощи на гриле",
-      "I grilled vegetables",
-      "Izgarada sebze pişirdim"
+      "Құрт - қазақтың дәстүрлі асы",
+      "Курт - традиционная еда казахов",
+      "Kurt is a traditional food",
+      "Kurt geleneksel bir yemektir"
     ],
     [
-      "Біз үйде пісіру кешін өткіздік",
-      "Мы устроили вечер готовки дома",
-      "We had a cooking night at home",
-      "Evde yemek yapma gecesi düzenledik"
+      "Шай - қазақ дастарқанының сәні",
+      "Чай - украшение казахского стола",
+      "Tea adorns Kazakh tables",
+      "Çay Kazak sofralarını süsler"
     ],
     [
-      "Біз нан пісіріп көрдік",
-      "Мы попробовали испечь хлеб",
-      "We tried baking bread",
-      "Ekmek yapmayı denedik"
+      "Асықпай тамақтану - пайдалы әдет",
+      "Ешь медленно - это полезно",
+      "Eat slowly, it's healthy",
+      "Yavaş yemek sağlıklıdır"
     ],
     [
-      "Тұзды және тәтті тағамдар үйлесімі ұнайды",
-      "Мне нравится сочетание соленого и сладкого",
-      "I like the combination of salty and sweet foods",
-      "Tuzlu ve tatlı yemeklerin kombinasyonunu severim"
+      "Қуырдақ - еттен жасалған тағам",
+      "Куырдак - блюдо из мяса",
+      "Kuyrdak is a meat dish",
+      "Kuyrdak bir et yemeğidir"
     ],
     [
-      "Біз көктемгі орамаларды дайындадық",
-      "Мы приготовили весенние рулетики",
-      "We made spring rolls",
-      "Bahar ruloları yaptık"
+      "Бал қымыз ерекше дәмді",
+      "Медовый кумыс очень вкусный",
+      "Honey kumis is delicious",
+      "Bal kımız çok lezzetlidir"
     ],
     [
-      "Менің сүйікті сорпам - томат сорпасы",
-      "Мой любимый суп – томатный суп",
-      "My favorite soup is tomato soup",
-      "En sevdiğim çorba domates çorbasıdır"
+      "Наурыз дастарқаны мол болады",
+      "Наурызский стол всегда богат",
+      "Nauryz table is always rich",
+      "Nevruz sofrası her zaman zengindir"
     ],
     [
-      "Таңғы ас - ең маңызды тамақ",
-      "Завтрак – самый важный прием пищи",
-      "Breakfast is the most important meal",
-      "Kahvaltı en önemli öğündür"
+      "Бауырсақ - қазақтың тәттісі",
+      "Баурсаки - это казахское лакомство",
+      "Baursaks are Kazakh sweets",
+      "Baursaklar Kazak tatlılarıdır"
+    ],
+    [
+      "Шұбат - даладағы таза сусын",
+      "Шубат - это напиток степи",
+      "Shubat is a steppe drink",
+      "Şubat bozkır içeceğidir"
+    ],
+    [
+      "Етпен шай ішу - дәстүріміз",
+      "Чай с мясом - наша традиция",
+      "Tea with meat is tradition",
+      "Etle çay içmek geleneğimizdir"
+    ],
+    [
+      "Қазақ тағамдары табиғи өнімдерден",
+      "Казахская еда из натуральных продуктов",
+      "Kazakh food is all-natural",
+      "Kazak yemekleri tamamen doğaldır"
+    ],
+    [
+      "Қымыз күш-қуатты арттырады",
+      "Кумыс повышает энергию",
+      "Kumis boosts energy",
+      "Kımız enerji artırır"
+    ],
+    [
+      "Дастарқан басында сыйластық бар",
+      "За столом царит уважение",
+      "Respect at the dining table",
+      "Sofrada saygı esastır"
+    ],
+    [
+      "Ет асу - қазақтың маңызды дәстүрі",
+      "Варка мяса - важная традиция казахов",
+      "Boiling meat is a tradition",
+      "Et haşlama bir gelenektir"
+    ],
+    [
+      "Жент - ұлттық тәтті тағам",
+      "Жент - это национальный десерт",
+      "Zhent is a national dessert",
+      "Jent ulusal bir tatlıdır"
+    ],
+    [
+      "Асылған ет дәмді әрі пайдалы",
+      "Вареное мясо вкусно и полезно",
+      "Boiled meat is tasty and healthy",
+      "Haşlanmış et lezzetli ve sağlıklıdır"
+    ],
+    [
+      "Қазақ дастарқаны молшылыққа толы",
+      "Казахский стол полон изобилия",
+      "Kazakh table is full of abundance",
+      "Kazak sofrası bereket doludur"
+    ],
+    [
+      "Дәмдеуіштер тағамды ерекше етеді",
+      "Специи делают блюда особенными",
+      "Spices make food unique",
+      "Baharatlar yemekleri özel kılar"
+    ],
+    [
+      "Айран - сергітетін сусын",
+      "Айран - это освежающий напиток",
+      "Airan is a refreshing drink",
+      "Ayran ferahlatıcı bir içecektir"
+    ],
+    [
+      "Қазақ дастарқанында әрдайым шай бар",
+      "На казахском столе всегда есть чай",
+      "Tea is always on Kazakh table",
+      "Kazak sofralarında her zaman çay vardır"
+    ],
+    [
+      "Ұлттық тағамдар дәстүрді сақтайды",
+      "Национальная еда сохраняет традиции",
+      "Traditional food preserves culture",
+      "Geleneksel yemekler kültürü korur"
+    ],
+    [
+      "Қуырылған бауырсақ керемет дәмді",
+      "Жареные баурсаки очень вкусные",
+      "Fried baursaks are delicious",
+      "Kızarmış baursaklar çok lezzetlidir"
+    ],
+    [
+      "Тары мен сөк - қазақ тағамдары",
+      "Тары и сёк - казахские блюда",
+      "Tary and sok are Kazakh dishes",
+      "Tarı ve sök Kazak yemekleridir"
+    ],
+    [
+      "Шұбатты таңертең ішкен пайдалы",
+      "Шубат полезно пить утром",
+      "Shubat is healthy in the morning",
+      "Sabahları şubat içmek faydalıdır"
     ]
   ]
 }

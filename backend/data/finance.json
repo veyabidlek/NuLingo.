@@ -1,185 +1,185 @@
 {
-  "category_name": "finance",
+  "category_name": "Finance",
   "sentences": [
     [
-      "Мен ақшамды үнемдеуге тырысамын",
-      "Я стараюсь экономить деньги",
-      "I try to save money",
-      "Para biriktirmeye çalışıyorum"
+      "Ақшаны үнемдеу маңызды",
+      "Экономия денег важна",
+      "Saving money is important",
+      "Para biriktirmek önemlidir"
     ],
     [
-      "Мен ай сайын бюджет жасаймын",
-      "Я составляю бюджет каждый месяц",
-      "I create a budget every month",
-      "Her ay bütçe yapıyorum"
+      "Бюджет құру - дұрыс әдет",
+      "Составление бюджета - полезная привычка",
+      "Creating a budget is wise",
+      "Bütçe oluşturmak akıllıcadır"
     ],
     [
-      "Менің банк шотымда қаражат бар",
-      "У меня есть средства на банковском счете",
-      "I have funds in my bank account",
-      "Banka hesabımda para var"
+      "Инвестиция - болашақ кепілі",
+      "Инвестиции - залог будущего",
+      "Investment secures the future",
+      "Yatırım geleceği garanti eder"
     ],
     [
-      "Мен несие тарихымды жақсартқым келеді",
-      "Я хочу улучшить свою кредитную историю",
-      "I want to improve my credit history",
-      "Kredi geçmişimi iyileştirmek istiyorum"
+      "Мен депозит аштым",
+      "Я открыл депозит",
+      "I opened a deposit",
+      "Bir mevduat hesabı açtım"
     ],
     [
-      "Мен акцияларға инвестиция жасаймын",
-      "Я инвестирую в акции",
-      "I invest in stocks",
-      "Hisse senetlerine yatırım yapıyorum"
+      "Қаржы сауаттылығы маңызды",
+      "Финансовая грамотность важна",
+      "Financial literacy matters",
+      "Finansal okuryazarlık önemlidir"
     ],
     [
-      "Мен қаржылық жоспарлауды бастадым",
-      "Я начал финансовое планирование",
-      "I started financial planning",
-      "Finansal planlama yapmaya başladım"
+      "Теңге - Қазақстанның валютасы",
+      "Тенге - валюта Казахстана",
+      "Tenge is Kazakhstan's currency",
+      "Tenge, Kazakistan'ın para birimidir"
     ],
     [
-      "Мен зейнетақы қорымды жинақтаймын",
-      "Я откладываю на пенсионный фонд",
-      "I save for my retirement fund",
-      "Emeklilik fonumu biriktiriyorum"
+      "Ақшаны дұрыс басқару керек",
+      "Нужно уметь управлять деньгами",
+      "Manage money wisely",
+      "Parayı akıllıca yönetmek gerekir"
     ],
     [
-      "Мен өз шығындарымды қадағалаймын",
-      "Я отслеживаю свои расходы",
-      "I track my expenses",
-      "Giderlerimi takip ediyorum"
+      "Мен акцияларға инвестиция салдым",
+      "Я инвестировал в акции",
+      "I invested in stocks",
+      "Hisselere yatırım yaptım"
     ],
     [
-      "Менің банкте депозитім бар",
-      "У меня есть депозит в банке",
-      "I have a deposit in the bank",
-      "Bankada mevduatım var"
+      "Несиені ақылмен алу керек",
+      "Кредит нужно брать с умом",
+      "Take loans wisely",
+      "Krediyi akıllıca almak gerekir"
     ],
     [
-      "Мен қаржылық тәуелсіздікке ұмтыламын",
-      "Я стремлюсь к финансовой независимости",
-      "I strive for financial independence",
-      "Finansal bağımsızlık için çabalıyorum"
+      "Төлемдер уақытында жасалуы керек",
+      "Платежи должны быть вовремя",
+      "Pay on time always",
+      "Ödemeler her zaman zamanında yapılmalıdır"
     ],
     [
-      "Ақшаны дұрыс басқару маңызды",
-      "Управление деньгами важно",
-      "Managing money is important",
-      "Parayı doğru yönetmek önemlidir"
+      "Қор нарығы - инвестиция алаңы",
+      "Фондовый рынок - площадка инвестиций",
+      "Stock market is for investing",
+      "Borsa, yatırım içindir"
     ],
     [
-      "Мен төлемдерді уақытында жасаймын",
-      "Я вовремя оплачиваю счета",
-      "I pay bills on time",
-      "Faturaları zamanında ödüyorum"
+      "Мен зейнетақы қорына ақша жинаймын",
+      "Я коплю в пенсионный фонд",
+      "I save in a pension fund",
+      "Emeklilik fonunda birikim yapıyorum"
     ],
     [
-      "Қаржылық білім мен үшін өте маңызды",
-      "Финансовая грамотность очень важна для меня",
-      "Financial literacy is very important to me",
-      "Finansal okuryazarlık benim için çok önemli"
+      "Кәсіп ашу - табыс көзі",
+      "Открытие бизнеса - источник дохода",
+      "Starting a business is income",
+      "İş kurmak bir gelir kaynağıdır"
     ],
     [
-      "Мен жыл сайынғы салықтарымды төлеймін",
-      "Я плачу ежегодные налоги",
-      "I pay my annual taxes",
-      "Yıllık vergilerimi ödüyorum"
+      "Теңге тұрақтылығын сақтап тұр",
+      "Тенге сохраняет стабильность",
+      "Tenge maintains stability",
+      "Tenge istikrarını koruyor"
     ],
     [
-      "Мен қаржылық тәуекелдерді азайтқым келеді",
-      "Я хочу минимизировать финансовые риски",
-      "I want to minimize financial risks",
-      "Finansal riskleri en aza indirmek istiyorum"
+      "Қаржы жоспарлау - табыс кепілі",
+      "Финансовое планирование - залог успеха",
+      "Financial planning ensures success",
+      "Finansal planlama başarıyı sağlar"
     ],
     [
-      "Мен кіріс пен шығысымды теңестіремін",
-      "Я сбалансирую свои доходы и расходы",
-      "I balance my income and expenses",
-      "Gelir ve giderlerimi dengelerim"
+      "Банкте депозит ашу оңай",
+      "Открыть депозит в банке легко",
+      "Opening a bank deposit is easy",
+      "Bankada mevduat açmak kolaydır"
     ],
     [
-      "Мен несиені уақтылы өтеймін",
-      "Я своевременно погашаю кредит",
-      "I repay loans on time",
-      "Krediyi zamanında öderim"
+      "Несиені төлеу міндет",
+      "Оплата кредита - обязательство",
+      "Paying loans is an obligation",
+      "Kredi ödemesi bir sorumluluktur"
     ],
     [
-      "Мен қаржылық кеңесшілерден көмек сұраймын",
-      "Я обращаюсь за помощью к финансовым консультантам",
-      "I seek help from financial advisors",
-      "Finansal danışmanlardan yardım alıyorum"
+      "Қаржы резерві - тұрақтылық кепілі",
+      "Финансовый резерв - залог стабильности",
+      "Financial reserves mean stability",
+      "Finansal rezervler istikrar sağlar"
     ],
     [
-      "Мен пассивті кіріс көздерін дамытқым келеді",
-      "Я хочу развивать источники пассивного дохода",
-      "I want to develop passive income streams",
-      "Pasif gelir kaynakları geliştirmek istiyorum"
+      "Мен онлайн банкинг қолданамын",
+      "Я использую онлайн-банкинг",
+      "I use online banking",
+      "Çevrimiçi bankacılık kullanıyorum"
     ],
     [
-      "Мен шұғыл жағдайға арналған қаражат жинаймын",
-      "Я коплю деньги на экстренные случаи",
-      "I save money for emergencies",
-      "Acil durumlar için para biriktiriyorum"
+      "Қаржыға қатысты шешімдер маңызды",
+      "Финансовые решения важны",
+      "Financial decisions matter",
+      "Finansal kararlar önemlidir"
     ],
     [
-      "Мен онлайн қаржылық құралдарды пайдаланамын",
-      "Я использую онлайн финансовые инструменты",
-      "I use online financial tools",
-      "Çevrimiçi finansal araçları kullanıyorum"
+      "Құнды қағаздармен сауда жасаймын",
+      "Я торгую ценными бумагами",
+      "I trade securities",
+      "Menkul kıymetlerle ticaret yapıyorum"
     ],
     [
-      "Мен әртүрлі инвестицияларды зерттеймін",
-      "Я изучаю различные инвестиции",
-      "I explore different investments",
-      "Farklı yatırımları araştırıyorum"
+      "Салық төлеу - азаматтық міндет",
+      "Уплата налогов - гражданский долг",
+      "Paying taxes is a duty",
+      "Vergi ödemek vatandaşlık görevidir"
     ],
     [
-      "Мен қарыздарымды жабуға тырысамын",
-      "Я стараюсь погасить свои долги",
-      "I try to pay off my debts",
-      "Borçlarımı kapatmaya çalışıyorum"
+      "Мен криптовалютаға қызығамын",
+      "Меня интересуют криптовалюты",
+      "I am interested in crypto",
+      "Kripto paralara ilgi duyuyorum"
     ],
     [
-      "Мен қаржылық жоспарлау курсына қатыстым",
-      "Я прошел курс финансового планирования",
-      "I attended a financial planning course",
-      "Finansal planlama kursuna katıldım"
+      "Қаржы тұрақтылығы маңызды",
+      "Финансовая стабильность важна",
+      "Financial stability matters",
+      "Finansal istikrar önemlidir"
     ],
     [
-      "Мен шығындарды қысқартуға назар аударамын",
-      "Я сосредотачиваюсь на сокращении расходов",
-      "I focus on reducing expenses",
-      "Giderleri azaltmaya odaklanıyorum"
+      "Зейнетақы жинақтары болашаққа керек",
+      "Пенсионные накопления важны для будущего",
+      "Pension savings are vital",
+      "Emeklilik birikimleri gelecekte önemlidir"
     ],
     [
-      "Мен қайырымдылық үшін ақша беремін",
-      "Я жертвую деньги на благотворительность",
-      "I donate money to charity",
-      "Hayır kurumlarına para bağışlıyorum"
+      "Сақтандыру қаржылық қауіпсіздік",
+      "Страхование - финансовая защита",
+      "Insurance is financial safety",
+      "Sigorta finansal bir güvencedir"
     ],
     [
-      "Мен инвестициялық портфельімді әртараптандырамын",
-      "Я диверсифицирую свой инвестиционный портфель",
-      "I diversify my investment portfolio",
-      "Yatırım portföyümü çeşitlendiriyorum"
+      "Кәсіпке қаржы салу табысты етеді",
+      "Инвестиции в бизнес приносят доход",
+      "Investing in business pays off",
+      "İş yatırımları kazanç sağlar"
     ],
     [
-      "Мен қаржы туралы кітаптарды оқимын",
-      "Я читаю книги о финансах",
-      "I read books about finance",
-      "Finans hakkında kitaplar okuyorum"
+      "Нарықтағы өзгерістерді қадағалау керек",
+      "Нужно следить за изменениями на рынке",
+      "Track market changes closely",
+      "Piyasa değişimlerini takip etmek gerekir"
     ],
     [
-      "Мен қаражатымды ақылмен жұмсаймын",
-      "Я расходую свои средства с умом",
-      "I spend my funds wisely",
-      "Kaynaklarımı akıllıca harcıyorum"
+      "Мен шағын несие алдым",
+      "Я взял небольшой кредит",
+      "I took a small loan",
+      "Küçük bir kredi aldım"
     ],
     [
-      "Мен болашақта молшылыққа жетуді армандаймын",
-      "Я мечтаю о финансовом благополучии в будущем",
-      "I dream of financial abundance in the future",
-      "Gelecekte finansal refah hayal ediyorum"
+      "Ақша дұрыс жұмсалуы тиіс",
+      "Деньги должны тратиться разумно",
+      "Money must be spent wisely",
+      "Para akıllıca harcanmalıdır"
     ]
   ]
 }

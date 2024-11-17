@@ -1,180 +1,185 @@
 {
-  "category_name": "religion",
+  "category_name": "Religion",
   "sentences": [
     [
-      "Дін - бұл рухани жол",
-      "Религия – это духовный путь",
-      "Religion is a spiritual path",
-      "Din, manevi bir yoldur"
-    ],
-    ["Біз дұға етеміз", "Мы молимся", "We pray", "Biz dua ederiz"],
-    [
-      "Дұға бізге тыныштық береді",
-      "Молитва приносит нам спокойствие",
-      "Prayer brings us peace",
-      "Dua bize huzur getirir"
+      "Ислам - қазақ халқының діні",
+      "Ислам - религия казахов",
+      "Islam is Kazakh religion",
+      "İslam Kazak dini"
     ],
     [
-      "Мен өз дініме сенемін",
-      "Я верю в свою религию",
-      "I believe in my religion",
-      "Dinime inanıyorum"
+      "Біз Аллаға сенеміз",
+      "Мы верим в Аллаха",
+      "We believe in Allah",
+      "Allah'a inanıyoruz"
     ],
     [
-      "Діни мерекелер адамдарды біріктіреді",
-      "Религиозные праздники объединяют людей",
-      "Religious holidays bring people together",
-      "Dini bayramlar insanları birleştirir"
+      "Намаз рухты тыныштандырады",
+      "Намаз успокаивает дух",
+      "Prayer calms the soul",
+      "Namaz ruhu sakinleştirir"
     ],
     [
-      "Дін адамның жанын тазалайды",
-      "Религия очищает душу человека",
-      "Religion cleanses the soul",
-      "Din ruhu arındırır"
+      "Ораза - рухани тазару уақыты",
+      "Ораза - время духовного очищения",
+      "Fasting is a spiritual cleanse",
+      "Oruç ruhani bir arınmadır"
     ],
     [
-      "Мешітке бару - біздің парызымыз",
-      "Посещение мечети – это наш долг",
-      "Going to the mosque is our duty",
-      "Camiye gitmek bizim görevimizdir"
+      "Мешіт - қасиетті орын",
+      "Мечеть - священное место",
+      "Mosque is a sacred place",
+      "Cami kutsal bir yerdir"
     ],
     [
-      "Діни кітаптарды оқығанды ұнатамын",
-      "Мне нравится читать религиозные книги",
-      "I like reading religious books",
-      "Dini kitaplar okumayı seviyorum"
+      "Құран - мұсылмандардың кітабы",
+      "Коран - книга мусульман",
+      "Quran is Muslims' book",
+      "Kur'an Müslümanların kitabıdır"
     ],
     [
-      "Құдайға сенім - өмірдің мәні",
-      "Вера в Бога – смысл жизни",
-      "Faith in God is the meaning of life",
-      "Tanrı'ya olan inanç hayatın anlamıdır"
+      "Құрбан айт - қасиетті мейрам",
+      "Курбан айт - священный праздник",
+      "Eid al-Adha is holy",
+      "Kurban Bayramı kutsaldır"
     ],
     [
-      "Дін бізді жақсылық жасауға үйретеді",
-      "Религия учит нас делать добро",
-      "Religion teaches us to do good",
-      "Din bize iyilik yapmayı öğretir"
+      "Дұға - жүректің тыныштығы",
+      "Молитва - покой сердца",
+      "Prayer brings peace",
+      "Dua huzur verir"
     ],
     [
-      "Ораза - рухани тазалықтың бір түрі",
-      "Пост – это форма духовного очищения",
-      "Fasting is a form of spiritual purification",
-      "Oruç, manevi bir arınma şeklidir"
+      "Ислам бейбітшілікке шақырады",
+      "Ислам призывает к миру",
+      "Islam calls for peace",
+      "İslam barışı çağırır"
     ],
     [
-      "Жексенбі күні шіркеуге бару - дәстүр",
-      "Посещение церкви в воскресенье – это традиция",
-      "Going to church on Sunday is a tradition",
-      "Pazar günü kiliseye gitmek bir gelenektir"
+      "Рамазан - сабырлық айы",
+      "Рамазан - месяц терпения",
+      "Ramadan is patience month",
+      "Ramazan sabır ayıdır"
     ],
     [
-      "Дін мені бақытты етеді",
-      "Религия делает меня счастливым",
-      "Religion makes me happy",
-      "Din beni mutlu ediyor"
+      "Алла - бір, серігі жоқ",
+      "Аллах - един, у Него нет сотоварищей",
+      "Allah is one, no partners",
+      "Allah birdir, ortağı yoktur"
     ],
     [
-      "Құдай бізге әрдайым көмектеседі",
-      "Бог всегда нам помогает",
-      "God always helps us",
-      "Tanrı her zaman bize yardım eder"
+      "Садақа - игі іс",
+      "Садака - доброе дело",
+      "Charity is a good deed",
+      "Sadaka hayırlı bir iştir"
     ],
     [
-      "Біз бір-бірімізге рақымдылық көрсетуіміз керек",
-      "Мы должны проявлять милосердие друг к другу",
-      "We must show mercy to one another",
-      "Birbirimize merhamet göstermeliyiz"
+      "Жұма - қасиетті күн",
+      "Пятница - священный день",
+      "Friday is a holy day",
+      "Cuma kutsal bir gündür"
     ],
     [
-      "Діни сенімдер - мәдениеттің бір бөлігі",
-      "Религиозные убеждения – часть культуры",
-      "Religious beliefs are part of culture",
-      "Dini inançlar kültürün bir parçasıdır"
+      "Тәубе - кешірім сұрау",
+      "Тауба - это прошение прощения",
+      "Repentance is seeking mercy",
+      "Tevbe, af dilemektir"
     ],
     [
-      "Діни ғибадат үйлері қасиетті орындар",
-      "Религиозные храмы – святые места",
-      "Religious temples are sacred places",
-      "Dini ibadet yerleri kutsal mekanlardır"
+      "Қажылық - бес парыздың бірі",
+      "Хадж - один из пяти столпов",
+      "Hajj is one of the pillars",
+      "Hac, beş şarttan biridir"
     ],
     [
-      "Біз Құдайға алғысымызды білдіреміз",
-      "Мы выражаем благодарность Богу",
-      "We express gratitude to God",
-      "Tanrı'ya şükranlarımızı sunarız"
+      "Рухани тәрбие маңызды",
+      "Духовное воспитание важно",
+      "Spiritual education matters",
+      "Manevi eğitim önemlidir"
     ],
     [
-      "Дін адамды жақсылыққа шақырады",
-      "Религия призывает человека к добру",
-      "Religion calls people to goodness",
-      "Din insanları iyiliğe çağırır"
+      "Дін бізді ізгілікке тәрбиелейді",
+      "Религия учит нас добру",
+      "Religion teaches kindness",
+      "Din iyilik öğretir"
     ],
     [
-      "Құдайдың мейірімі шексіз",
-      "Милость Бога бесконечна",
-      "God's mercy is infinite",
-      "Tanrı'nın merhameti sonsuzdur"
+      "Адамдар арасындағы татулық маңызды",
+      "Мир между людьми важен",
+      "Harmony is vital",
+      "İnsanlar arasında barış önemlidir"
     ],
     [
-      "Дін адамдардың бірлігін нығайтады",
-      "Религия укрепляет единство людей",
-      "Religion strengthens the unity of people",
-      "Din, insanların birliğini güçlendirir"
+      "Аллаға шүкір айту - парыз",
+      "Благодарность Аллаху - долг",
+      "Thanking Allah is duty",
+      "Allah'a şükretmek farzdır"
     ],
     [
-      "Біз әділ болуымыз керек",
-      "Мы должны быть справедливыми",
-      "We must be just",
-      "Adil olmalıyız"
+      "Құран оқу - жүрекке тыныштық",
+      "Чтение Корана - покой сердца",
+      "Reading Quran calms heart",
+      "Kur'an okumak kalbi sakinleştirir"
     ],
     [
-      "Діни сенімдер өмірге бағыт береді",
-      "Религиозные убеждения дают направление в жизни",
-      "Religious beliefs give direction in life",
-      "Dini inançlar hayata yön verir"
+      "Қазақ дәстүрлері Исламмен үйлеседі",
+      "Казахские традиции сочетаются с Исламом",
+      "Kazakh traditions fit Islam",
+      "Kazak gelenekleri İslam'la uyumludur"
     ],
     [
-      "Мен Құдайдың сүйіспеншілігін сезінемін",
-      "Я чувствую любовь Бога",
-      "I feel God's love",
-      "Tanrı'nın sevgisini hissediyorum"
+      "Ораза адамды сабырлыққа баулиды",
+      "Пост учит терпению",
+      "Fasting teaches patience",
+      "Oruç sabrı öğretir"
     ],
     [
-      "Діни әндер жанды тыныштандырады",
-      "Религиозные песни успокаивают душу",
-      "Religious songs calm the soul",
-      "Dini şarkılar ruhu sakinleştirir"
+      "Неке - Исламда қасиетті шарт",
+      "Брак - это священный завет в Исламе",
+      "Marriage is sacred in Islam",
+      "Nikah İslam'da kutsaldır"
     ],
     [
-      "Діни сабақтар өмірдің мәнін түсіндіреді",
-      "Религиозные уроки объясняют смысл жизни",
-      "Religious teachings explain the meaning of life",
-      "Dini dersler hayatın anlamını açıklar"
+      "Жаназа рәсімі - үлкен жауапкершілік",
+      "Похороны - это большая ответственность",
+      "Funerals are a big duty",
+      "Cenaze büyük bir sorumluluktur"
     ],
     [
-      "Мен мешітте тыныштық сезінемін",
-      "Я чувствую покой в мечети",
-      "I feel peace in the mosque",
-      "Camide huzur hissediyorum"
+      "Дұға ету - рухани байланыс",
+      "Молитва - это духовная связь",
+      "Prayer is spiritual bond",
+      "Dua manevi bir bağdır"
     ],
     [
-      "Құдайға сенім - бұл күш",
-      "Вера в Бога – это сила",
-      "Faith in God is strength",
-      "Tanrı'ya olan inanç bir güçtür"
+      "Дінге құрмет көрсету - парыз",
+      "Уважение к религии - долг",
+      "Respect for religion is duty",
+      "Dine saygı göstermek farzdır"
     ],
     [
-      "Діни қызметтер бізді біріктіреді",
-      "Религиозные службы объединяют нас",
-      "Religious services unite us",
-      "Dini hizmetler bizi birleştirir"
+      "Қазақ халқы сенімге берік",
+      "Казахский народ верен вере",
+      "Kazakh people are faithful",
+      "Kazak halkı inancına bağlıdır"
     ],
     [
-      "Дін біздің өміріміздің бағыттауышы",
-      "Религия – это путеводитель нашей жизни",
-      "Religion is the guide of our life",
-      "Din hayatımızın rehberidir"
+      "Зекет - мұқтаждарға көмек",
+      "Закят - помощь нуждающимся",
+      "Zakat helps the needy",
+      "Zekat ihtiyaç sahiplerine yardımcıdır"
+    ],
+    [
+      "Шариғат заңдары әділетті",
+      "Шариат справедлив",
+      "Sharia laws are just",
+      "Şeriat adildir"
+    ],
+    [
+      "Жүрек тыныштығы - Аллаға сенімде",
+      "Покой сердца в вере в Аллаха",
+      "Peace is in faith in Allah",
+      "Kalp huzuru Allah'a inançtadır"
     ]
   ]
 }
