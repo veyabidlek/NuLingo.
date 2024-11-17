@@ -1,0 +1,185 @@
+{
+  "category_name": "Animals",
+  "sentences": [
+    [
+      "Тұлпар - қазақтың қасиетті жылқысы",
+      "Тулпар - священная лошадь казахов",
+      "Tulpar is a sacred Kazakh horse",
+      "Tulpar, Kazakların kutsal atıdır"
+    ],
+    [
+      "Ит адалдықтың символы",
+      "Собака - символ верности",
+      "The dog is a symbol of loyalty",
+      "Köpek sadakatin sembolüdür"
+    ],
+    [
+      "Мысықтар үйді тышқандардан қорғайды",
+      "Кошки защищают дом от мышей",
+      "Cats protect the house from mice",
+      "Kediler evi farelerden korur"
+    ],
+    [
+      "Бүркіт қазақ аңшыларының серігі",
+      "Беркут - спутник казахских охотников",
+      "The eagle is a Kazakh hunter's companion",
+      "Kartal, Kazak avcılarının yoldaşıdır"
+    ],
+    [
+      "Қасқыр даладағы еркіндік символы",
+      "Волк - символ свободы в степи",
+      "The wolf symbolizes freedom in the steppe",
+      "Kurt, bozkırdaki özgürlüğün simgesidir"
+    ],
+    [
+      "Түйе шөлде өмір сүре алады",
+      "Верблюд может жить в пустыне",
+      "The camel can survive in deserts",
+      "Deve çöllerde yaşayabilir"
+    ],
+    [
+      "Арқар биік тауларда өмір сүреді",
+      "Архар живёт в высоких горах",
+      "Argali lives in high mountains",
+      "Argali yüksek dağlarda yaşar"
+    ],
+    [
+      "Аюлар қыста ұйқыға кетеді",
+      "Медведи впадают в спячку зимой",
+      "Bears hibernate during winter",
+      "Ayılar kışın uykuya yatar"
+    ],
+    [
+      "Жылан қауіпті, бірақ қажет жануар",
+      "Змея опасна, но необходима",
+      "The snake is dangerous but necessary",
+      "Yılan tehlikelidir ama gereklidir"
+    ],
+    [
+      "Түлкілер ақылды және әдемі",
+      "Лисы умные и красивые",
+      "Foxes are smart and beautiful",
+      "Tilkiler akıllı ve güzeldir"
+    ],
+    [
+      "Қазақ жылқыны өте қадірлейді",
+      "Казахи очень уважают лошадей",
+      "Kazakhs greatly value horses",
+      "Kazaklar atlara büyük değer verir"
+    ],
+    [
+      "Балықшылар теңізден балық аулайды",
+      "Рыбаки ловят рыбу в море",
+      "Fishermen catch fish in the sea",
+      "Balıkçılar denizde balık tutar"
+    ],
+    [
+      "Құстар табиғатты әнімен көркемдейді",
+      "Птицы украшают природу песнями",
+      "Birds beautify nature with songs",
+      "Kuşlar şarkılarıyla doğayı güzelleştirir"
+    ],
+    [
+      "Жолбарыс өте күшті және жылдам аң",
+      "Тигр - очень сильный и быстрый зверь",
+      "The tiger is a strong and fast animal",
+      "Kaplan güçlü ve hızlı bir hayvandır"
+    ],
+    [
+      "Ақбөкен Қазақстанның символы",
+      "Сайгак - символ Казахстана",
+      "The saiga is a symbol of Kazakhstan",
+      "Saygak, Kazakistan'ın simgesidir"
+    ],
+    [
+      "Сиыр ет пен сүт береді",
+      "Корова даёт мясо и молоко",
+      "The cow provides meat and milk",
+      "İnek et ve süt verir"
+    ],
+    [
+      "Қой етін қазақтар жақсы көреді",
+      "Казахи любят баранину",
+      "Kazakhs love mutton",
+      "Kazaklar koyun etini sever"
+    ],
+    [
+      "Қояндар өте жылдам жүгіре алады",
+      "Кролики могут быстро бегать",
+      "Rabbits can run very fast",
+      "Tavşanlar çok hızlı koşabilir"
+    ],
+    [
+      "Бүркіттер аң аулау шебері",
+      "Беркуты - мастера охоты",
+      "Eagles are masters of hunting",
+      "Kartallar av ustalarıdır"
+    ],
+    [
+      "Түйелер далада тасымалдауға пайдаланылады",
+      "Верблюды используются для перевозки",
+      "Camels are used for transport in the steppe",
+      "Develer taşımacılık için kullanılır"
+    ],
+    [
+      "Аққу - сұлулықтың символы",
+      "Лебедь - символ красоты",
+      "The swan is a symbol of beauty",
+      "Kuğu güzelliğin sembolüdür"
+    ],
+    [
+      "Киік шөлді далада жүгіреді",
+      "Сайгак бегает по степи",
+      "The saiga runs in the steppes",
+      "Saygak bozkırlarda koşar"
+    ],
+    [
+      "Шаңырақта ит пен мысық бар",
+      "В доме есть собака и кошка",
+      "There are a dog and a cat in the house",
+      "Evde bir köpek ve kedi var"
+    ],
+    [
+      "Балықтар су асты әлемінде жүзеді",
+      "Рыбы плавают в подводном мире",
+      "Fish swim in the underwater world",
+      "Balıklar sualtı dünyasında yüzer"
+    ],
+    [
+      "Құстар алысқа ұша алады",
+      "Птицы могут летать далеко",
+      "Birds can fly far distances",
+      "Kuşlar uzak mesafelere uçabilir"
+    ],
+    [
+      "Түлкі өте ақылды аң",
+      "Лиса - очень хитрое животное",
+      "The fox is a clever animal",
+      "Tilki çok zeki bir hayvandır"
+    ],
+    [
+      "Қазақ даласында арқар кездеседі",
+      "Архар встречается в казахской степи",
+      "Argali is found in the Kazakh steppe",
+      "Argali Kazak bozkırında bulunur"
+    ],
+    [
+      "Қыран бүркіт биікте ұшады",
+      "Орёл летает высоко",
+      "The golden eagle flies high",
+      "Altın kartal yüksekte uçar"
+    ],
+    [
+      "Қасқырлар топ болып өмір сүреді",
+      "Волки живут стаями",
+      "Wolves live in packs",
+      "Kurtlar sürü halinde yaşar"
+    ],
+    [
+      "Жылан табиғаттың маңызды бөлігі",
+      "Змея - важная часть природы",
+      "The snake is an important part of nature",
+      "Yılan doğanın önemli bir parçasıdır"
+    ]
+  ]
+}
