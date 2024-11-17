@@ -10,10 +10,8 @@ This is our pet-project that we developed during a hackathon at university.
 * Utilized all of Apple's latest tools like **SwiftUI and SwiftData**.
 
 ### for backend: ###
-* The project was written according to **MVVM architecture with Router and Combine**.
-* All generated data was fetched using **URLSession**.
-* Followed **Dependency Injection** principle, for better testing.
-* Utilized all of Apple's latest tools like **SwiftUI and SwiftData**.
+* NodeJS
+* Mongoose.
   
 # App Screenshots:
 <img src="https://github.com/user-attachments/assets/de88f035-0320-4513-a178-6589c962b111" width="200">
