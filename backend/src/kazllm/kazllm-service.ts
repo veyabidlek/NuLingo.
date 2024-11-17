@@ -1,18 +1,15 @@
+// kazllm-service.ts
 import "dotenv/config";
 import axios from "axios";
 import CategoryModel from "./models/category";
-import mongoose from "mongoose";
 
 export default class KAZLLMService {
   async generateCategory({
     text_prompt,
     file_prompt = null,
-    userId,
   }: {
-    //
     text_prompt: string;
     file_prompt?: any;
-    userId: mongoose.Types.ObjectId;
   }) {
     try {
       const response = await axios.post(
@@ -82,9 +79,8 @@ export default class KAZLLMService {
         );
       }
 
-      // Save the data to MongoDB
+      // Save the data to MongoDB without userId
       const newCategory = new CategoryModel({
-        userId,
         category_name: categoryData.category_name,
         sentences: categoryData.sentences,
       });
@@ -104,24 +100,21 @@ export default class KAZLLMService {
     }
   }
 
-  async getUserCategories(userId: mongoose.Types.ObjectId) {
+  async getCategories() {
     try {
-      const categories = await CategoryModel.find({ userId }).sort({
+      const categories = await CategoryModel.find().sort({
         createdAt: -1,
       }); // Sort by newest first
       return categories;
     } catch (error) {
-      console.error("Error fetching user categories:", error);
+      console.error("Error fetching categories:", error);
       throw error;
     }
   }
 
-  async getCategory(categoryId: string, userId: mongoose.Types.ObjectId) {
+  async getCategory(categoryId: string) {
     try {
-      const category = await CategoryModel.findOne({
-        _id: categoryId,
-        userId,
-      });
+      const category = await CategoryModel.findById(categoryId);
       return category;
     } catch (error) {
       console.error("Error fetching category:", error);
