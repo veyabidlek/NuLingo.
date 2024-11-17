@@ -124,4 +124,19 @@ categoryRouter.get("/drinks", (req, res) => {
   });
 });
 
+categoryRouter.get("/animals", (req, res) => {
+  const filePath = path.join(__dirname, "../../data/animals.json");
+  fs.readFile(filePath, "utf-8", (err, data) => {
+    if (err) {
+      return res.status(500).json({ error: "Failed to read the file" });
+    }
+    try {
+      const jsonData = JSON.parse(data);
+      return res.json(jsonData);
+    } catch (parseError) {
+      return res.status(500).json({ error: "Failed to parse JSON" });
+    }
+  });
+});
+
 export default categoryRouter;
