@@ -10,8 +10,10 @@ This is our pet-project that we developed during a hackathon at university.
 * Utilized all of Apple's latest tools like **SwiftUI and SwiftData**.
 
 ### for backend: ###
-* NodeJS
-* Mongoose.
+* ExpressJS
+* MongoDB
+* KAZLLM API
+* Soyle API
   
 # App Screenshots:
 <img src="https://github.com/user-attachments/assets/de88f035-0320-4513-a178-6589c962b111" width="200">
